@@ -1,2 +1,2 @@
 # um-idcard-maker
-## https://github.io/fivemAlpha/um-idcard-maker
+## https://fivemalpha.github.io/um-idcard-maker/
